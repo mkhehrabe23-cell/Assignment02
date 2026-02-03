@@ -37,11 +37,11 @@ K-Nearest Neighbors (KNN)
 
 ### 4.3 Sampling Techniques Applied
 
-# 1 Bootstrap Sampling
-# 2 Random Under-Sampling
-# 3 Random Over-Sampling
-# 4 Stratified Sampling
-# 5 K-Fold Cross Validation
+ 1 Bootstrap Sampling
+ 2 Random Under-Sampling
+ 3 Random Over-Sampling
+ 4 Stratified Sampling
+ 5 K-Fold Cross Validation
 
 ## 5. Model Training and Evaluation
 
